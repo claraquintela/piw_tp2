@@ -1,0 +1,15 @@
+requetes asyc retorna dados -. é chamado dentro da classe
+
+2- JS : classe -> requeteasync -> function -> requetesasync -> classe (pour reagir ao recebimento de dados)
+
+a)afficher
+b)ajouter
+c)supprimer
+d)edit
+e)filtrer
+
+
+3- class tache tem tres etapas
+a) afficher class App
+b)afficher le detail
+c)supprimer
